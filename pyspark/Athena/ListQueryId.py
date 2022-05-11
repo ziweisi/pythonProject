@@ -42,5 +42,5 @@ for queryId in queryIds :
 #   'AUTO', 'EffectiveEngineVersion': 'Athena engine version 2'}},
 #   'ResponseMetadata':
 #   {'RequestId': '9f7a3b70-c8b2-4280-80b4-efbdeaf4a0d0', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Wed, 11 May 2022 12:36:19 GMT', 'x-amzn-requestid': '9f7a3b70-c8b2-4280-80b4-efbdeaf4a0d0', 'content-length': '1577', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
-
+# 准备了很多
 
