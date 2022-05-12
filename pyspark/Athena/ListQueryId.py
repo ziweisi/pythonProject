@@ -3,7 +3,7 @@ import boto3
 athena = boto3.client('athena')
 
 response = athena.list_query_executions(
-    WorkGroup='primary' #指定 工作组 默认是 perimary 您在控制台上可以查看到
+    WorkGroup='primary' #指定 工作组 默认是 primary 您在控制台上可以查看到
 )
 
 queryIds = [] # 准备一个list 用来存放 查询该workgroup 中所有的查询id
