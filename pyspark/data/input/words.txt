@@ -1,3 +1,0 @@
-hadoop hadoop hadoop flink
-zookeeper kafka hive flink spark
-spark java c++ c++
